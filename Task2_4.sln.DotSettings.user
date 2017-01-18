@@ -1,0 +1,14 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/RunConfigs/Config/=58D8AD4BC345104D9363983B7151CDFE/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/RunConfigs/Config/=58D8AD4BC345104D9363983B7151CDFE/Name/@EntryValue">Task2_4</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=58D8AD4BC345104D9363983B7151CDFE/ProjectGuid/@EntryValue">8B04B89CDBD51049B301889866C84F3D</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=58D8AD4BC345104D9363983B7151CDFE/Type/@EntryValue">project</s:String>
+	<s:Boolean x:Key="/Default/RunConfigs/Config/=786178654E3FAC4F8DDDDF9D52CABCBA/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/RunConfigs/Config/=786178654E3FAC4F8DDDDF9D52CABCBA/Name/@EntryValue">Logger</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=786178654E3FAC4F8DDDDF9D52CABCBA/ProjectGuid/@EntryValue">176486FE9ADCA849A688A71AB36FD3EE</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=786178654E3FAC4F8DDDDF9D52CABCBA/Type/@EntryValue">project</s:String>
+	<s:Boolean x:Key="/Default/RunConfigs/Config/=BEF452A7FD799644B9C02992D18C00EE/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/RunConfigs/Config/=BEF452A7FD799644B9C02992D18C00EE/Type/@EntryValue">project</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=BEF452A7FD799644B9C02992D18C00EE/Name/@EntryValue">TextListener</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=BEF452A7FD799644B9C02992D18C00EE/ProjectGuid/@EntryValue">D9D8AD0F00A6794B8B59888263D8C758</s:String>
+	<s:String x:Key="/Default/RunConfigs/Active/@EntryValue">58D8AD4BC345104D9363983B7151CDFE</s:String></wpf:ResourceDictionary>

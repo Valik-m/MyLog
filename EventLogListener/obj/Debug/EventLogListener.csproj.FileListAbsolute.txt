@@ -1,0 +1,7 @@
+C:\Training\Task2_4\EventLogListener\bin\Debug\EventLogListener.dll
+C:\Training\Task2_4\EventLogListener\bin\Debug\EventLogListener.pdb
+C:\Training\Task2_4\EventLogListener\bin\Debug\Listener.dll
+C:\Training\Task2_4\EventLogListener\bin\Debug\Listener.pdb
+C:\Training\Task2_4\EventLogListener\obj\Debug\EventLogListener.dll
+C:\Training\Task2_4\EventLogListener\obj\Debug\EventLogListener.pdb
+C:\Training\Task2_4\EventLogListener\obj\Debug\EventLogListener.csprojResolveAssemblyReference.cache

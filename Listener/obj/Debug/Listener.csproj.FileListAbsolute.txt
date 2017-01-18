@@ -1,0 +1,5 @@
+C:\Training\Task2_4\Listener\bin\Debug\Listener.dll
+C:\Training\Task2_4\Listener\bin\Debug\Listener.pdb
+C:\Training\Task2_4\Listener\obj\Debug\Listener.csprojResolveAssemblyReference.cache
+C:\Training\Task2_4\Listener\obj\Debug\Listener.dll
+C:\Training\Task2_4\Listener\obj\Debug\Listener.pdb

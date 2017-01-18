@@ -1,0 +1,8 @@
+C:\Training\Task2_4\TextListener\bin\Debug\TextListener.dll
+C:\Training\Task2_4\TextListener\bin\Debug\TextListener.pdb
+C:\Training\Task2_4\TextListener\bin\Debug\Listener.dll
+C:\Training\Task2_4\TextListener\bin\Debug\Listener.pdb
+C:\Training\Task2_4\TextListener\obj\Debug\TextListener.csprojResolveAssemblyReference.cache
+C:\Training\Task2_4\TextListener\obj\Debug\TextListener.dll
+C:\Training\Task2_4\TextListener\obj\Debug\TextListener.pdb
+C:\Training\Task2_4\TextListener\bin\Debug\TextListener.config

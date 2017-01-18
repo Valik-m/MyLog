@@ -1,0 +1,8 @@
+C:\Training\Task2_4\Logger\bin\Debug\Logger.dll.config
+C:\Training\Task2_4\Logger\bin\Debug\Logger.dll
+C:\Training\Task2_4\Logger\bin\Debug\Logger.pdb
+C:\Training\Task2_4\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+C:\Training\Task2_4\Logger\obj\Debug\Logger.dll
+C:\Training\Task2_4\Logger\obj\Debug\Logger.pdb
+C:\Training\Task2_4\Logger\bin\Debug\Listener.dll
+C:\Training\Task2_4\Logger\bin\Debug\Listener.pdb

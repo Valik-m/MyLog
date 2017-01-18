@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2_4", "Task2_4\Task2_4.csproj", "{9CB8048B-D5DB-4910-B301-889866C84F3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logger", "Logger\Logger.csproj", "{FE866417-DC9A-49A8-A688-A71AB36FD3EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listener", "Listener\Listener.csproj", "{77D9EE49-59F3-4360-8ADB-131B27351C05}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Listeners", "Listeners", "{5D498C2F-3991-4F33-8BEB-71E855FB469A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextListener", "TextListener\TextListener.csproj", "{0FADD8D9-A600-4B79-8B59-888263D8C758}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordListener", "WordListener\WordListener.csproj", "{8C0FB124-53C1-4FEB-9A6E-78B95112C8DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventLogListener", "EventLogListener\EventLogListener.csproj", "{3D3DCA3B-4336-4E77-A1A4-C987FF8718B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CB8048B-D5DB-4910-B301-889866C84F3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CB8048B-D5DB-4910-B301-889866C84F3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CB8048B-D5DB-4910-B301-889866C84F3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CB8048B-D5DB-4910-B301-889866C84F3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE866417-DC9A-49A8-A688-A71AB36FD3EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE866417-DC9A-49A8-A688-A71AB36FD3EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE866417-DC9A-49A8-A688-A71AB36FD3EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE866417-DC9A-49A8-A688-A71AB36FD3EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77D9EE49-59F3-4360-8ADB-131B27351C05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77D9EE49-59F3-4360-8ADB-131B27351C05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77D9EE49-59F3-4360-8ADB-131B27351C05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77D9EE49-59F3-4360-8ADB-131B27351C05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FADD8D9-A600-4B79-8B59-888263D8C758}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FADD8D9-A600-4B79-8B59-888263D8C758}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FADD8D9-A600-4B79-8B59-888263D8C758}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FADD8D9-A600-4B79-8B59-888263D8C758}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C0FB124-53C1-4FEB-9A6E-78B95112C8DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C0FB124-53C1-4FEB-9A6E-78B95112C8DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C0FB124-53C1-4FEB-9A6E-78B95112C8DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C0FB124-53C1-4FEB-9A6E-78B95112C8DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D3DCA3B-4336-4E77-A1A4-C987FF8718B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D3DCA3B-4336-4E77-A1A4-C987FF8718B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D3DCA3B-4336-4E77-A1A4-C987FF8718B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D3DCA3B-4336-4E77-A1A4-C987FF8718B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0FADD8D9-A600-4B79-8B59-888263D8C758} = {5D498C2F-3991-4F33-8BEB-71E855FB469A}
+		{8C0FB124-53C1-4FEB-9A6E-78B95112C8DA} = {5D498C2F-3991-4F33-8BEB-71E855FB469A}
+		{3D3DCA3B-4336-4E77-A1A4-C987FF8718B1} = {5D498C2F-3991-4F33-8BEB-71E855FB469A}
+	EndGlobalSection
+EndGlobal

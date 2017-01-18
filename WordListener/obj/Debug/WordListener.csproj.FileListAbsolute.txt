@@ -1,0 +1,8 @@
+C:\Training\Task2_4\WordListener\bin\Debug\WordListener.dll
+C:\Training\Task2_4\WordListener\bin\Debug\WordListener.pdb
+C:\Training\Task2_4\WordListener\bin\Debug\DocX.dll
+C:\Training\Task2_4\WordListener\bin\Debug\Listener.dll
+C:\Training\Task2_4\WordListener\bin\Debug\Listener.pdb
+C:\Training\Task2_4\WordListener\obj\Debug\WordListener.csprojResolveAssemblyReference.cache
+C:\Training\Task2_4\WordListener\obj\Debug\WordListener.dll
+C:\Training\Task2_4\WordListener\obj\Debug\WordListener.pdb
